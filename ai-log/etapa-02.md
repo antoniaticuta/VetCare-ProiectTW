@@ -6,7 +6,7 @@
 
 ## Conversations
 
-- <SHARE LINK> (Stage 2 JavaScript data logic)
+- https://chatgpt.com/share/6ac4e6a8-06e0-83ed-ae38-e7dba6d03656 (Stage 2 JavaScript data logic)
 
 ## Key requests
 
