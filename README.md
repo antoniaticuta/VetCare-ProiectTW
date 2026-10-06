@@ -54,3 +54,15 @@ that read and change it. Results are printed in the browser console (F12).
 | S1-R6 | 2 columns on desktop, 1 under 700px | style.css | resize < 700px |
 | S1-R7 | visible focus, readable dark theme | style.css | Tab; dark mode |
 | S1-R8 | commit "Stage 1" pushed | commit history | commit history |
+
+## Stage 2 checklist
+
+| ID | Requirement | Where | How to check |
+| --- | --- | --- | --- |
+| S2-R1 | JS file linked, logs on page load | PERMALINK index.html | open page, F12 |
+| S2-R2 | 3+ items with id, name, state, tag | PERMALINK appointments.js | read |
+| S2-R3 | list, count, search, add, toggle, delete | PERMALINK appointments.js | console output |
+| S2-R4 | add rejects empty name and invalid tag | PERMALINK appointments.js | last 2 console lines |
+| S2-R5 | original array unchanged after add | PERMALINK appointments.js | console line |
+| S2-R6 | README Stage 2 section + AI log | README.md, ai-log/etapa-02.md | read |
+| S2-R7 | commit "Stage 2" pushed | LINK TO STAGE 2 COMMIT | commit history |
